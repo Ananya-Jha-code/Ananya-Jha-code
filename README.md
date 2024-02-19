@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ananya Jha</h1>
-- 🌱 I’m currently learning **Reactive Native**
 
 - 💬 Ask me about **building cool real life problem solving solutions**
 
